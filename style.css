@@ -92,7 +92,7 @@ text-transform: none;
     .container{
         display: flex;
         flex-direction: row;
-        margin: 35px auto;
+        margin: 100px auto;
         height: 350px;
         max-width: 900px;
         text-align: left;
